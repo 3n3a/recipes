@@ -1,6 +1,25 @@
 # gnocchi, creamy cheese, spinach
 
 ## Ingredients:
+
+### metric
+- 450 grams potato gnocchi
+- 42 grams unsalted butter
+- 30 milliliters olive oil
+- 3 cloves garlic, sliced
+- 1 small onion, chopped
+- 240 milliliters heavy cream
+- 45 grams cream cheese
+- 5 grams paprika
+- 5 grams dried parsley
+- 2.5 grams cayenne pepper powder
+- 2.5 grams dried oregano
+- Salt and black pepper to taste
+- 100 grams grated Parmesan cheese
+- 120 grams fresh spinach leaves
+- Red chili flakes (for garnish, optional)
+
+### imperial
 * 16 ounces potato gnocchi
 * 3 tablespoons unsalted butter
 * 2 tablespoons olive oil
